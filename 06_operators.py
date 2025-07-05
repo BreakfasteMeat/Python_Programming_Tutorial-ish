@@ -1,13 +1,13 @@
 # Operators are used to perform operations on variables and values (duh)
 
 
-# BASIC MATH OPERATIONS
+# ------ BASIC MATH OPERATIONS -----
 print(10 + 5)
 print(10 - 5)
 print(10 * 5)
-print(10 / 5)
+print(10 / 5) # Returns 2.0 (a float), even though the result is a whole number
 
-# ADVANCED OPERATIONS
+# ----- ADVANCED OPERATIONS -----
 # Normal division for control
 print(7 / 2)
 

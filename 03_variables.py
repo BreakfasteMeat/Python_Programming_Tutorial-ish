@@ -4,8 +4,12 @@ x = 10
 # When declaring a variable, you can include letters, digits, and underscores
 # BUT it must start with a letter or underscore
 
+# VALID
 data_32 = 123
 _data = 456
+
+# INVALID
+#2cool = 99
 
 # Variables are also CASE_SENSITIVE
 age = 18
@@ -34,8 +38,8 @@ str_example_2 = 'Goodbye World'
 
 # ----- EXPLANATION FOR THE STR DATATYPE (YOU CAN SKIP THIS PART) -----
 # Strings are represented differently compared to the other datatypes
-# It does not have a single "value", it is instead represented using
-# a List of different values for each character in the string.
+# It does not have a single "value", it is instead stored internally
+# as a series of Unicode Characters.
 # The strings are arrays of bytes representing Unicode characters.
 # In other programming languages (C, C++, Java, etc.) there is a
 # data type not present in Python called a Char (Short for Character)

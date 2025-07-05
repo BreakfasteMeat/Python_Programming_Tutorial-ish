@@ -13,3 +13,7 @@ print("Hello World!")
 # result to 'Hello World!' appearing in the console
 
 # I will be using comments to explain in the following, series? I am not sure what to call this lmao
+
+# I also suggest experimenting with the scripts in these files; it is part of learning,
+# actually a HUGE part of learning. You can copy and paste this into your own code editor
+# (CodeChum playground, OnlineGDB, etc..)
