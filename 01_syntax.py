@@ -11,3 +11,5 @@ print("Hello World!")
 # Python will interpret that line to be part of your program's code
 # Executing this or copy-pasting it to an online compiler and then executing it would
 # result to 'Hello World!' appearing in the console
+
+# I will be using comments to explain in the following, series? I am not sure what to call this lmao
