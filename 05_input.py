@@ -18,3 +18,25 @@ print("Your number", number,"plus 5 is :", number + 5)
 
 # !! DO NOTE THAT INPUTTING INVALID CHARACTERS INTO A CAST INPUT WILL CAUSE ERRORS !!
 # !! E.G. TYPING 'ABCDEFGHIJ' INTO AN INPUT THAT IS CAST INTO AN INTEGER DATA TYPE !!
+
+## ---------- CHALLENGES ----------
+# 1. (EASY)
+# Ask the user for their first name, last name, and favorite color. Then print a sentence using all three.
+# Example Output:
+# What is your first name?: Alex
+# What is your last name?: Rivera
+# What is your favorite color?: Blue
+#
+# Hello, Alex Rivera! Your favorite color is Blue.
+#
+# --------------------------------------------------------------------------------------------------------------------------------------------
+#
+# 2. (MEDIUM)
+# Ask the user to type any object, then ask what sound it makes. Finally, print a fun machine-style output showing the object and the sound.
+# Enter any object: cat
+# What sound does it make? meow
+#
+# [ Booting Sound Machine... ]
+# Detected object: cat
+# Emitting sound: meow! meow! meow!
+

@@ -21,9 +21,7 @@ print('3' + '5')  # OUTPUT: "35" (string concatenation)
 
 # But be careful, using the + Operator on a string and an Integer will cause an error
 
-# print("Number: " + first_number)  # This will cause a TypeError
-# Instead, cast it:
-print("Number: " + str(first_number))
+
 
 
 # - CASTING -
@@ -39,9 +37,14 @@ print(str(first_number) + str(second_number))  # Output: "2132" (string concaten
 # float() - converts to decimal number
 # str() - converts to string
 
+# print("Number: " + first_number)  # This will cause a TypeError
+# Instead, cast it:
+print("Number: " + str(first_number))
+
 
 
 # -- Notes --
 # Although '+' and ',' are used the same in some case, it is worth to point out that
 # '+' String concatenation does not automatically add a space between the two strings, while
 # ',' does add a space in between
+
