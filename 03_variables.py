@@ -32,7 +32,7 @@ bool_example_2 = False
 str_example_1 = "Hello World"
 str_example_2 = 'Goodbye World'
 
-# ----- EXPLANATION FOR THE STR DATATYPE -----
+# ----- EXPLANATION FOR THE STR DATATYPE (YOU CAN SKIP THIS PART) -----
 # Strings are represented differently compared to the other datatypes
 # It does not have a single "value", it is instead represented using
 # a List of different values for each character in the string.
