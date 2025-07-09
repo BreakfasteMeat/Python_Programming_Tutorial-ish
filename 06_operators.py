@@ -42,6 +42,8 @@ print(7 // 2)
 # Money left: 450
 #
 # ----------------------------------------------------------------------------------------
+
+
 #
 # 2. (MEDIUM)
 # Create a program that asks for 2 numerical inputs, and calculates

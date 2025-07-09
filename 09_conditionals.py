@@ -1,6 +1,7 @@
 # !! MUST UNDERSTAND BOOLEANS AND EVALUATING BOOLEAN ARITHMETIC BEFORE CONTINUING !!
+# (things are aboutta get complicated here)
 
-# If statements can be used to run sections of code when a statment is true
+# If statements can be used to run sections of code when a statement is true
 
 x = 10
 y = 5
@@ -15,7 +16,7 @@ elif x > y:
 else:
     print("x is equal to y")
 
-# Statement/s in the if statement will run if the statement is true
+# Statement/s in the if statement runs if the statement is true
 # If the first statment is false, it will evaluate the next elif statement
 # if none of the if and elif statments is true, it will then run the else statement
 
@@ -29,5 +30,5 @@ elif temp < 15:
 else:
     print("Weather is nice.")
 
-# I suggest changing the values around, experiment!
+# I suggest changing the values around and experiment!
 
