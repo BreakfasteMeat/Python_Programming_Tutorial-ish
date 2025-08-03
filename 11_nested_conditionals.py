@@ -40,5 +40,6 @@ else:
     print("Unknown user.")
 
 # This is nested 4 levels deep!
+# But be careful with this, as it severly impacts readability of your code
 
 

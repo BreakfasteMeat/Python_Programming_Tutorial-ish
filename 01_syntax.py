@@ -16,4 +16,5 @@ print("Hello World!")
 
 # I also suggest experimenting with the scripts in these files; it is part of learning,
 # actually a HUGE part of learning. You can copy and paste this into your own code editor
-# (CodeChum playground, OnlineGDB, etc..)
+# (CodeChum playground, OnlineGDB, etc..) or, open my Github page in an IDE like
+# PyCharm or Visual Studio Code, but this does need extra setup
